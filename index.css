@@ -1,0 +1,26 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-size: large;
+    text-align: center;
+}
+
+.container {
+    margin: 50px auto;
+    width: 800px;
+    height: auto;
+    padding: 20px;
+    background-color: lightcyan
+}
+
+.question-container {
+    background-color: darkgrey;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin: 0;
+}

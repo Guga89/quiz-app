@@ -1,0 +1,115 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the largest land animal?",
+        "options": {
+          "a": "Elephant",
+          "b": "Giraffe",
+          "c": "Rhino",
+          "d": "Hippo"
+        },
+        "correctAnswer": "a"
+      },
+      {
+        "id": 2,
+        "question": "Which animal is known for its long neck?",
+        "options": {
+          "a": "Zebra",
+          "b": "Giraffe",
+          "c": "Kangaroo",
+          "d": "Penguin"
+        },
+        "correctAnswer": "b"
+      },
+      {
+        "id": 3,
+        "question": "Which animal is the fastest on land?",
+        "options": {
+          "a": "Horse",
+          "b": "Lion",
+          "c": "Cheetah",
+          "d": "Eagle"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "id": 4,
+        "question": "What is the largest species of bird?",
+        "options": {
+          "a": "Eagle",
+          "b": "Albatross",
+          "c": "Ostrich",
+          "d": "Penguin"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "id": 5,
+        "question": "Which animal is known for playing dead as a defense mechanism?",
+        "options": {
+          "a": "Rabbit",
+          "b": "Snake",
+          "c": "Possum",
+          "d": "Deer"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "id": 6,
+        "question": "Which marine animal is known for its intelligence?",
+        "options": {
+          "a": "Shark",
+          "b": "Octopus",
+          "c": "Whale",
+          "d": "Dolphin"
+        },
+        "correctAnswer": "d"
+      },
+      {
+        "id": 7,
+        "question": "What is the tallest animal in the world?",
+        "options": {
+          "a": "Elephant",
+          "b": "Ostrich",
+          "c": "Giraffe",
+          "d": "Lion"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "id": 8,
+        "question": "Which animal is known as the King of the Jungle?",
+        "options": {
+          "a": "Tiger",
+          "b": "Bear",
+          "c": "Elephant",
+          "d": "Lion"
+        },
+        "correctAnswer": "d"
+      },
+      {
+        "id": 9,
+        "question": "What type of animal is a Komodo dragon?",
+        "options": {
+          "a": "Bird",
+          "b": "Mammal",
+          "c": "Reptile",
+          "d": "Fish"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        "id": 10,
+        "question": "Which animal is known for its black and white stripes?",
+        "options": {
+          "a": "Tiger",
+          "b": "Zebra",
+          "c": "Leopard",
+          "d": "Panda"
+        },
+        "correctAnswer": "b"
+      }
+    ]
+  }
+  
